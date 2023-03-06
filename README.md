@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="center">
+Hi there 👋
+</h1>
 
-<!--
-**IvanaGeorgievaa/IvanaGeorgievaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+I'm Ivana Georgieva, a software engineer based in Macedonia.
+</h4>
 
-Here are some ideas to get you started:
+<h4 align="center">
+ Welcome to my GitHub profile! :sparkles:
+ </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>
+About Me
+</h3>
+
+<p>
+<ul>
+<li>:zap: Motivated, hard-working and passionate person.</l1>
+<li>🔭 I’m currently working on Flask (Python) Application</li>
+<li>🌱 I’m currently learning Flutter</li>
+</ul>
+</p>
+
+<h3>
+Programming Languages
+</h3>
+
+<p>
+<ul>
+<li>Flask (Python)</li>
+<li>Django (Python)</li>
+<li>Spring (Java)</li>
+<li>Flutter (Dart, C, C++)</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+</p>
+
+<h4 align="center">
+📫 How to reach me:
+</h4>
+
+<p align="center">
+  <a href="mailto:ivanageorgieva5@gmail.com">
+    <img height="35" src="https://user-images.githubusercontent.com/75941337/185814665-e834706f-b369-4043-9d29-b1a29bdbc4f1.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ivana-georgieva-a9632520b//">
+    <img height="35" src="https://user-images.githubusercontent.com/75941337/185814731-f6942776-d103-4f94-9c01-c59de32fa98d.png"/>
+  </a>
+</p>
