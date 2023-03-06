@@ -10,9 +10,9 @@ I'm Ivana Georgieva, a software engineer based in Macedonia.
  Welcome to my GitHub profile! :sparkles:
  </h4>
 
-<h3>
+<h2>
 About Me
-</h3>
+</h2>
 
 <p>
 <ul>
@@ -22,9 +22,9 @@ About Me
 </ul>
 </p>
 
-<h3>
+<h2>
 Programming Languages
-</h3>
+</h2>
 
 <p>
 <ul>
