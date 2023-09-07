@@ -30,6 +30,7 @@ Programming Languages
 <ul>
 <li>Flask (Python)</li>
 <li>Django (Python)</li>
+<li>FastAPI (Python)</li> 
 <li>Spring Boot (Java)</li>
 <li>Flutter (Dart, C, C++)</li>
 <li>HTML</li>
